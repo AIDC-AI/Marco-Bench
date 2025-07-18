@@ -17,11 +17,16 @@ Marco-Bench-MIF is the first deeply localized multilingual benchmark designed to
 
 ## Dataset Access
 
-The dataset will be available through our GitHub repository and Hugging Face:
+The dataset is available through our GitHub repository and Hugging Face:
 
 ```bash
+# Github
 git clone https://github.com/AIDC-AI/Marco-Bench-MIF.git
+
+# Huggingface
+https://huggingface.co/datasets/AIDC-AI/Marco-Bench-MIF
 ```
+
 
 ## Key Findings
 
