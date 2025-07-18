@@ -44,3 +44,16 @@ This dataset is licensed under the [Apache License 2.0](https://www.apache.org/l
 ## Acknowledgments
 
 Special thanks to all annotators and translators who participated in dataset construction and validation. This project is supported by Alibaba International Digital Commerce Group.
+
+## Citation
+```bibtex
+@misc{marco_bench_mifeval,
+      title={Marco-Bench-MIF: On Multilingual Instruction-Following Capability of Large Language Models}, 
+      author={Bo Zeng and Chenyang Lyu and Sinuo Liu and Mingyan Zeng and Minghao Wu and Xuanfan Ni and Tianqi Shi and Yu Zhao and Yefeng Liu and Chenyu Zhu and Ruizhe Li and Jiahui Geng and Qing Li and Yu Tong and Longyue Wang and Weihua Luo and Kaifu Zhang},
+      year={2025},
+      eprint={2507.11882},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2507.11882}, 
+}
+```
