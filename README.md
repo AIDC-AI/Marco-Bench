@@ -52,13 +52,18 @@ Special thanks to all annotators and translators who participated in dataset con
 
 ## Citation
 ```bibtex
-@misc{marco_bench_mifeval,
-      title={Marco-Bench-MIF: On Multilingual Instruction-Following Capability of Large Language Models}, 
-      author={Bo Zeng and Chenyang Lyu and Sinuo Liu and Mingyan Zeng and Minghao Wu and Xuanfan Ni and Tianqi Shi and Yu Zhao and Yefeng Liu and Chenyu Zhu and Ruizhe Li and Jiahui Geng and Qing Li and Yu Tong and Longyue Wang and Weihua Luo and Kaifu Zhang},
-      year={2025},
-      eprint={2507.11882},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2507.11882}, 
+@inproceedings{zeng-etal-2025-marco,
+  title     = "Marco-Bench-{MIF}: On Multilingual Instruction-Following Capability of Large Language",
+  author    = "Zeng, Bo and Lyu, Chenyang and Liu, Sinuo and Zeng, Mingyan and Wu, Minghao and Ni, Xuanfan and Shi, Tianqi and Zhao, Yu and Liu, Yefeng and Zhu, Chenyu and Li, Ruizhe and Geng, Jiahui and Li, Qing and Tong, Yu and Wang, Longyue and Luo, Weihua and Zhang, Kaifu",
+  editor    = "Che, Wanxiang and Nabende, Joyce and Shutova, Ekaterina and Pilehvar, Mohammad Taher",
+  booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  month     = jul,
+  year      = "2025",
+  address   = "Vienna, Austria",
+  publisher = "Association for Computational Linguistics",
+  url       = "https://aclanthology.org/2025.acl-long.1172/",
+  doi       = "10.18653/v1/2025.acl-long.1172",
+  pages     = "24058--24072",
+  ISBN      = "979-8-89176-251-0"
 }
 ```
