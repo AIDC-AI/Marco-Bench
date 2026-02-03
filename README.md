@@ -2,15 +2,13 @@
     <img src="image/logo_1.png" width="250" style="margin-bottom: 0.2;"/>
 <p>
 
-# 🍓 Marco-LLM: Towards Multilingual LLM
-
 <div align="center">
+
+# 🍓 Marco-LLM: Towards Multilingual LLM
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![ACL 2025](https://img.shields.io/badge/ACL-2025-blue)](https://www.2025.aclweb.org/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-dataset-yellow)](https://huggingface.co/datasets/AIDC-AI/Marco-Bench-MIF)
-
-<div align="center">
 
 ⭐ [_**Alibaba International Digital Commerce**_](https://aidc-ai.com) ⭐
 
