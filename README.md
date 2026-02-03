@@ -2,7 +2,7 @@
     <img src="image/logo_1.png" width="250" style="margin-bottom: 0.2;"/>
 <p>
 
-# 🍓 Marco-LLM: Towards Multilingual and Multiculture LLM
+# 🍓 Marco-LLM: Towards Multilingual and Multiculture Large Language Models
 
 <div align="center">
 
