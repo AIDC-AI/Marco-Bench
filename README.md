@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🍓 Marco-LLM: Towards Multilingual LLM
+# 🍓 Marco-LLM: Towards Multilingual and Multiculture LLM
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![ACL 2025](https://img.shields.io/badge/ACL-2025-blue)](https://www.2025.aclweb.org/)
